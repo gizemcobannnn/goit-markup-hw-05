@@ -647,7 +647,7 @@ section{
     fill: #ffffff; 
 }
 
-.model-button:hover .button-svg, .model-button:focus .button-svg{
+.modal-button:hover .button-svg, .modal-button:focus .button-svg{
     fill: #ffffff; 
 }
 .form-model-text{
@@ -675,7 +675,6 @@ section{
 }
 .inputs-div{
     position: relative;
-
 
 }
 .input-one{
@@ -744,11 +743,11 @@ section{
 
     
 }
-.visually-hidden:checked .label-span{
-    background-color: stilinde #404bbf; 
+
+.privacy-checkbox:checked + .privacy-label > .label-span{
+    background-color:  #404bbf; 
     border: none; 
     fill: #F4F4FD; 
-
 }
 .privacy-link{
     color:#4d5ae5;
