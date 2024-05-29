@@ -209,7 +209,6 @@ span{
 .contacts a:visited{
     color: #404bbf ;
 }
-/* */
 section{
     justify-content: center;
 
@@ -225,7 +224,7 @@ section{
     letter-spacing: 0.02em;
     color: #ffffff;
     padding: 188px 0;
-    background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(./images/people-office-1.jpg); 
+    background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/people-office-1.jpg); 
     max-width: 1440px; 
     background-repeat: no-repeat; 
     background-position: center; 
@@ -276,7 +275,7 @@ section{
     border: 1px solid #8e8f99;
     margin-bottom: 8px; 
 }
-.section-two .visually-hidden{
+.visually-hidden{
         position: absolute;
         width: 1px;
         height: 1px;
