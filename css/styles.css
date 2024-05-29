@@ -650,7 +650,7 @@ section{
 .modal-button:hover .button-svg, .modal-button:focus .button-svg{
     fill: #ffffff; 
 }
-input:focus svg, input:hover svg{
+.input-one:focus .input-svg, .input-one:hover .input-svg{
     fill: #4D5AE5; 
 }
 .form-model-text{
@@ -698,7 +698,7 @@ input:focus svg, input:hover svg{
     border-color: #4D5AE5 ;
 
 }
-.person-svg{
+.input-svg{
     position: absolute; 
     left: 16px;
     top: 50%;
