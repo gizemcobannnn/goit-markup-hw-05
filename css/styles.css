@@ -650,7 +650,7 @@ section{
 .modal-button:hover .button-svg, .modal-button:focus .button-svg{
     fill: #ffffff; 
 }
-.input-one:focus .input-svg, .input-one:hover .input-svg{
+input:focus+.input-svg{
     fill: #4D5AE5; 
 }
 .form-model-text{
@@ -678,7 +678,6 @@ section{
 }
 .inputs-div{
     position: relative;
-
 }
 .input-one{
     width: 100%; 
