@@ -648,6 +648,9 @@ section{
 }
 
 .modal-button:hover .button-svg, .modal-button:focus .button-svg{
+    fill: #ffffff; 
+}
+.input-one:focus .person-svg, .input-one:hover .person-svg{
     fill: #4D5AE5; 
 }
 .form-model-text{
