@@ -647,7 +647,7 @@ section{
     fill: #ffffff; 
 }
 
-.modal-button:hover .button-svg, .modal-button:focus .button-svg{
+.input-one:hover .button-svg, .input-one:focus .button-svg{
     fill: #ffffff; 
 }
 .form-model-text{
