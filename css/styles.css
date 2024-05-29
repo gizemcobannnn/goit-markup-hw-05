@@ -648,10 +648,7 @@ section{
 }
 
 .modal-button:hover .button-svg, .modal-button:focus .button-svg{
-    fill: #ffffff; 
-}
-.input-one:focus .button-svg, .input-one:hover .button-svg{
-    fill: #4D5AE5;
+    fill: #4D5AE5; 
 }
 .form-model-text{
     margin-bottom: 16px ;
@@ -690,6 +687,9 @@ section{
     outline: transparent; 
     transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1); 
 
+}
+.input-one:focus .button-svg, .input-one:hover .button-svg{
+    fill: #4D5AE5;
 }
 .input-one:focus{
     border-color: #4D5AE5 ;
